@@ -1,0 +1,9 @@
+---
+# vars file for aws-ec2
+user: AKIAXKYCEPIBS36EQB7K
+pass: AoQQICAyKjSqK7mNs4ErAyAyrc+cwlwQeA5mZHep
+image: ami-08e0ca9924195beba
+subnet: subnet-60c6cf08
+key: rdp_new
+reg: ap-south-1
+
